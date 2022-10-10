@@ -9,7 +9,7 @@ Due to large file sizes, the project would not upload to GitHub.
 
 The entire project, along with executables, is hosted on a Google Drive.
 
-Project files: 
+Project files: https://drive.google.com/drive/folders/19eV5wsHcdyiNcJPS74-xnIEdAdXdOxQH?usp=sharing
 
 **Windows version:** https://drive.google.com/file/d/1k7eSvWzYxfX0yhGA9TE05L0U0NAYf-dx/view?usp=sharing
 
